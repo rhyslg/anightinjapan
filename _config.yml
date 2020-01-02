@@ -21,8 +21,8 @@ defaults:
     layout: post
 email: your-email@example.com
 description: A blog about Japan
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 twitter_username: rhyslg
 github_username: rhyslg
 theme: minima
